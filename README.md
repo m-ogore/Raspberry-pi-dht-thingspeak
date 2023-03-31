@@ -7,7 +7,7 @@ Simple sending temp and humidity to thingspeak using a raspberry pi 4
 Connect DHT pin to GPIO 23 
 GND to GND 
 VCC to 3.3V
-![image](https://user-images.githubusercontent.com/42109589/229080009-b9c47654-67e1-4d36-801e-e687c01bcca2.png |width=250)
+<img src="https://user-images.githubusercontent.com/42109589/229080009-b9c47654-67e1-4d36-801e-e687c01bcca2.png" width="250" height="250" />
 
 ![image](https://user-images.githubusercontent.com/42109589/229080134-89617fff-c4fc-42ed-a698-daf99f6141d9.png |width=250)
  
